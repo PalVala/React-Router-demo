@@ -1,0 +1,95 @@
+
+{
+    "job":[
+    {
+      "id": 1,
+      "title": "Software Engineer",
+      "company": "Tech Innovations Inc.",
+      "location": "San Francisco, CA",
+      "description": "Develop and maintain software applications.",
+      "salary": "$120,000 - $150,000",
+      "type": "Full-time"
+    },
+    {
+      "id": 2,
+      "title": "Marketing Specialist",
+      "company": "Global Marketing Solutions",
+      "location": "New York, NY",
+      "description": "Create and execute marketing campaigns.",
+      "salary": "$80,000 - $100,000",
+      "type": "Full-time"
+    },
+    {
+      "id": 3,
+      "title": "Customer Support Representative",
+      "company": "HelpDesk Pro",
+      "location": "Remote",
+      "description": "Provide support to customers via phone and email.",
+      "salary": "$45,000 - $60,000",
+      "type": "Full-time"
+    },
+    {
+      "id": 4,
+      "title": "Data Scientist",
+      "company": "Data Insights Ltd.",
+      "location": "Seattle, WA",
+      "description": "Analyze data to provide business insights.",
+      "salary": "$130,000 - $160,000",
+      "type": "Full-time"
+    },
+    {
+      "id": 5,
+      "title": "Web Developer",
+      "company": "WebCraft Studios",
+      "location": "Austin, TX",
+      "description": "Develop and maintain websites and web applications.",
+      "salary": "$90,000 - $120,000",
+      "type": "Contract"
+    },
+    {
+      "id": 6,
+      "title": "Project Manager",
+      "company": "Project Solutions Group",
+      "location": "Chicago, IL",
+      "description": "Manage project timelines and deliverables.",
+      "salary": "$110,000 - $140,000",
+      "type": "Full-time"
+    },
+      {
+      "id": 7,
+      "title": "UX/UI Designer",
+      "company": "Design Dynamics",
+      "location": "London, UK",
+      "description": "Create user-friendly interfaces.",
+      "salary": "$75,000 - $95,000",
+      "type": "Full-time"
+    },
+    {
+      "id": 8,
+      "title": "Sales Representative",
+      "company": "SalesForce Global",
+      "location": "Miami, FL",
+      "description": "Drive sales and build client relationships.",
+      "salary": "$60,000 - $80,000 + commission",
+      "type": "Full-time"
+    },
+    {
+      "id": 9,
+      "title": "Network Administrator",
+      "company": "Network Solutions Inc.",
+      "location": "Dallas, TX",
+      "description": "Maintain and troubleshoot network systems.",
+      "salary": "$85,000 - $110,000",
+      "type": "Full-time"
+    },
+    {
+      "id": 10,
+      "title": "Content Writer",
+      "company": "Content Creators Ltd.",
+      "location": "Remote",
+      "description": "Create engaging and informative content.",
+      "salary": "$50,000 - $70,000",
+      "type": "Part-time"
+    }
+]
+}
